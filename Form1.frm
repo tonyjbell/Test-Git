@@ -10,7 +10,7 @@ Begin VB.Form Form1
    ScaleWidth      =   4560
    StartUpPosition =   3  'Windows Default
    Begin VB.CommandButton Command1 
-      Caption         =   "Command1"
+      Caption         =   "Enter"
       Height          =   375
       Left            =   1440
       TabIndex        =   0
@@ -18,7 +18,7 @@ Begin VB.Form Form1
       Width           =   1335
    End
    Begin VB.Label Label1 
-      Caption         =   "Label1"
+      Caption         =   "Name"
       Height          =   375
       Left            =   360
       TabIndex        =   1
@@ -31,3 +31,6 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+Private Sub Command1_Click()
+
+End Sub
