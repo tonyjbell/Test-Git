@@ -1,10 +1,7 @@
 Type=Exe
-Form=quiz.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Object={6BF52A50-394A-11D3-B153-00C04F79FAA6}#1.0#0; wmp.dll
-IconForm="Form1"
+Form=Form1.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
 Startup="Form1"
-ExeName32="QuizProject.exe"
 Command32=""
 Name="Project1"
 HelpContextID="0"
